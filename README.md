@@ -14,7 +14,7 @@ This is a simple web application designed to help users manage their daily tasks
 - **JavaScript**: Used for implementing the interactive functionalities of the web app.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/Koushik00-tech/Todo-List.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in your web browser to view the application.
 
